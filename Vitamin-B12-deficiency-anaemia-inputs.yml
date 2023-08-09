@@ -1,0 +1,51 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/anaemia---primary.py
+inputModule3:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia-monitoring---primary.py
+inputModule4:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia-assessment---primary.py
+inputModule5:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia-injection---primary.py
+inputModule6:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia---primary.py
+inputModule7:
+  class: File
+  path: python/vitamin---primary.py
+inputModule8:
+  class: File
+  path: python/pernicious-vitamin-b12-deficiency-anaemia---primary.py
+inputModule9:
+  class: File
+  path: python/congenital-vitamin-b12-deficiency-anaemia---primary.py
+inputModule10:
+  class: File
+  path: python/other-vitamin-b12-deficiency-anaemia---primary.py
+inputModule11:
+  class: File
+  path: python/dietary-vitamin-b12-deficiency-anaemia---primary.py
+inputModule12:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia-unspecified---primary.py
+inputModule13:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia-combined---primary.py
+inputModule14:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia-degeneration---primary.py
+inputModule15:
+  class: File
+  path: python/vitamin-b12-deficiency-anaemia---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
